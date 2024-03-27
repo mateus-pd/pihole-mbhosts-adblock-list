@@ -1,0 +1,51 @@
+# Title: MBhosts-AdBlock/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 27 March 2024 11:53:30 (UTC)
+# Number of unique domains: 9
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/mateus-pd/pihole-mbhosts-adblock-list/main/hosts
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+# End of custom host records.
+
+# Start MBHosts AdBlock List
+# =====================================
+
+# Google Ads
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead3.googlesyndication.com
+
+0.0.0.0 securepubads.g.doubleclick.net
+
+0.0.0.0 pubads.g.doubleclick.net
+
+0.0.0.0 googleads.g.doubleclick.net
+
+# Amazon Ads
+0.0.0.0 aax.amazon-adsystem.com
+
+# Others
+0.0.0.0 bs.serving-sys.com
+
+
