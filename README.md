@@ -10,7 +10,6 @@ The raw list is not working at the Pihole at this moment.
     - pagead2.googlesyndication.com 
     - googleads.g.doubleclick.net
     - pubads.g.doubleclick.net
-    - googleadservices.com
 - Amazon Ads
     - aax.amazon-adsystem.com
 - Others
